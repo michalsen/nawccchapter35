@@ -22,7 +22,7 @@
         "drupal/core-composer-scaffold": "^9.2",
         "drupal/core-recommended": "^9.2",
         "drupal/csv_importer": "^1.14",
-        "drupal/devel": "^4.1",
+        "drupal/devel": "^5.1",
         "drupal/geocoder": "^3.25",
         "drupal/geofield": "^1.37",
         "drupal/geofield_map": "^2.72",
